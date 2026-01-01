@@ -8,9 +8,9 @@
 
 <h2> 👨🏻‍💻 &nbsp;About Me </h2>
 
-- 👨🏻‍💻 &nbsp; Tive meu primeiro contato com programação na faculdade e desde então  estou sempre em busca de aprender novas ferramentas e práticas, atualmente trabalho como estagiário em TI.
+- 👨🏻‍💻 &nbsp; Tive meu primeiro contato com programação na faculdade e desde então  estou sempre em busca de aprender novas ferramentas e práticas, atualmente trabalho como Analista em TI Jr.
 - 🚀 &nbsp; Ao longo da minha jornada, tenho me aprofundado em diversas tecnologias, buscando sempre aprimorar minhas habilidades e me manter atualizado com as tendências do mercado.
-- 🎮 &nbsp; Sou apaixonado por Games, e costumo jogar no meu tempo livre. É o que eu mais gosto de fazer pra me divertir e esvaziar a cabeça haha!
+- 🎮 &nbsp; Sou apaixonado por Games, e costumo jogar no meu tempo livre. É o que eu mais gosto de fazer pra me divertir e esvaziar a cabeça!
 
 <h2> 🛠 &nbsp;Tech Stack</h2>
 <h3>💻 &nbsp;Front-end:</h3>
